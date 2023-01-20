@@ -3,4 +3,6 @@
     <string name="vk_id">введите VK id</string>
     <string name="search">найти!</string>
     <string name="result">результат будет отображен здесь</string>
+
+    <string name="error_message">Произошла ошибка, попробуйте ещё раз!</string>
 </resources>
